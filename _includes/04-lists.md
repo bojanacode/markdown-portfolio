@@ -1,0 +1,4 @@
+- Candy
+- Juice
+- Meat
+- Salad
