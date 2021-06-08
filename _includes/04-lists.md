@@ -1,4 +1,4 @@
-- 1 Candy
-- 2 Juice
-- 3 Meat
-- 4 Salad
+- Candy
+- Juice
+- Meat
+- Salad
